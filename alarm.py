@@ -21,7 +21,7 @@ def alarm():
     if current_time == wake_up_time:
         print("\nIt's time to wake up!")
 
-        webbrowser.open_new("https://www.youtube.com/watch?v=1Vx0cLNI228")
+        webbrowser.open_new("https://www.youtube.com/watch?v=GWXLPu8Ky9k")
 
         print("The alarm has gone off.\nPress any key to close the program...")
 
